@@ -1,0 +1,7 @@
+![Main Dashboard](AuroraR4_1.jpg)
+![Main Dashboard](AuroraR4_1_gutted.jpg)
+![Main Dashboard](AuroraR4_2.jpg)
+![Main Dashboard](GraphingCalculator.jpg)
+![Main Dashboard](SomeRepairTools.jpg)
+![Main Dashboard](MoreRepairTools.jpg)
+![Main Dashboard](MyDesktops.jpg)
